@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -10f iacta 
+sed -n '$p' iacta | awk '{print ">"$0}1' iacta
