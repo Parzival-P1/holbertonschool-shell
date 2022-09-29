@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t /Users/pacool/Holberton/holbertonschool-shell/io_redirections_and_filters
+ls -ts
