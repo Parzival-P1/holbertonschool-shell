@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/0x03$ echo $PATH:/action
+PATH=$PATH:/action
