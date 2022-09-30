@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH:/action
+/tmp/0x03$ echo $PATH:/action
